@@ -1,10 +1,10 @@
-# GraphQL API challenge Ciudadela
+# GraphQL API challenge for Ciudadela
 
 ## Built With
 
 This project was built using these main technologies
 
-* [Express.js](https://expressjs.com//)
+* [Express.js](https://expressjs.com/)
 * [Apollo Server Express](https://www.apollographql.com/docs/apollo-server)
 * [TypeScript](https://www.typescriptlang.org/)
 * [GraphQL](https://graphql.org/)
